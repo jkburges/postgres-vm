@@ -1,5 +1,6 @@
 ##Prerequisites
 
+* access to the aodn/chef github repo
 * VirtualBox
 * Vagrant
 * vagrant-berkshelf plugin
